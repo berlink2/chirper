@@ -148,8 +148,9 @@ const register = () => (
           <div className="clone-explanation">
             <h3>Hey there!</h3>
             <p>
-              This is a clone version of Twitter created for practice. You can
-              check the source code <a href="/">here</a>.
+              A clone version of Twitter created using React, Redux, and
+              Firebase. Peruse the source code{" "}
+              <a href="https://github.com/berlink2/chirper">here</a>.
             </p>
           </div>
 

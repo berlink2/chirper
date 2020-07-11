@@ -116,7 +116,7 @@ class Navbar extends Component {
   };
 
   handleGithub = () => {
-    window.open("https://github.com/berlink2/");
+    window.open("https://github.com/berlink2/chirper");
   };
 
   render() {
